@@ -1,6 +1,6 @@
 <?php
 
-namespace Fomvasss\Dadata\Response;
+namespace Pugofka\Dadata\Response;
 
 class Name extends AbstractResponse
 {

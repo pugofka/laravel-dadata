@@ -1,12 +1,12 @@
 <?php
 
 
-namespace Fomvasss\Dadata\Response;
+namespace Pugofka\Dadata\Response;
 
 /**
  * Агрегированная статистика
  *
- * @package Fomvasss\Dadata\Response
+ * @package Pugofka\Dadata\Response
  */
 class StatisticServices
 {

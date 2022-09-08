@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Fomvasss\Dadata\Response;
+namespace Pugofka\Dadata\Response;
 
 use DateTime;
 
@@ -14,7 +14,7 @@ use DateTime;
  * поиск дублей - merging
  *
  * @link https://dadata.ru/api/stat/
- * @package Fomvasss\Dadata\Response
+ * @package Pugofka\Dadata\Response
  */
 class Statistics extends AbstractResponse
 {

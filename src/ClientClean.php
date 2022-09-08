@@ -1,20 +1,20 @@
 <?php
 
-namespace Fomvasss\Dadata;
+namespace Pugofka\Dadata;
 
 use DateTime;
 use DateTimeZone;
 use Exception;
-use Fomvasss\Dadata\Response\AbstractResponse;
-use Fomvasss\Dadata\Response\Address;
-use Fomvasss\Dadata\Response\Date;
-use Fomvasss\Dadata\Response\Email;
-use Fomvasss\Dadata\Response\Name;
-use Fomvasss\Dadata\Response\Passport;
-use Fomvasss\Dadata\Response\Phone;
-use Fomvasss\Dadata\Response\Statistics;
-use Fomvasss\Dadata\Response\StatisticServices;
-use Fomvasss\Dadata\Response\Vehicle;
+use Pugofka\Dadata\Response\AbstractResponse;
+use Pugofka\Dadata\Response\Address;
+use Pugofka\Dadata\Response\Date;
+use Pugofka\Dadata\Response\Email;
+use Pugofka\Dadata\Response\Name;
+use Pugofka\Dadata\Response\Passport;
+use Pugofka\Dadata\Response\Phone;
+use Pugofka\Dadata\Response\Statistics;
+use Pugofka\Dadata\Response\StatisticServices;
+use Pugofka\Dadata\Response\Vehicle;
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Exception\GuzzleException;
